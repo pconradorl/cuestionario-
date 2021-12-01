@@ -1,0 +1,8 @@
+1 En tus palabras, ¿Qué es internet? es una red de computadoras que tienen conectado al mundo actual, con el cual nos comunicamos
+2 Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet. existen cables muy gruesos en los que por ahi pasa todo, hay satelites.
+3 ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS. La resolución de nombres utiliza una estructura en árbol, mediante la cual los diferentes servidores DNS de las zonas de autoridad se encargan de resolver las direcciones de su zona, y sino se lo solicitan a otro servidor que creen que conoce la dirección.
+4 Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular. dan una señal a un satelite mediante ondas, y se transimite lo necesario.
+5 Describe los protocolos que existen en internet, en específico HTTP y HTML. RLs Direcciones IP DNS (Domain Name System) Nombres de dominio Principales organismos de Internet Organismos a nivel global Organismos de desarrollo de Internet en España
+6 En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas. aprendi que el internet es muy grande y te ayuda a dar informacion instantanea
+7 En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet. no compartiendo contraseñas en paginas de dudosa procedencia
+8 ¿Cómo funciona la búsqueda de google? Una vez que descubrimos la URL de una página, la visitamos (rastreamos) para averiguar qué contiene. Renderizamos la página y analizamos el contenido textual y no textual, además del diseño visual general, para decidir cómo mostrarla en los resultados de la Búsqueda.
